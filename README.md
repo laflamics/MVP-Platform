@@ -2,8 +2,8 @@
 
 A cutting-edge no-code platform that transforms natural language into fully functional applications. Built with Next.js 14, TypeScript, and OpenAI.
 
-![MVP-Platform](ainocode.png)
-![MPV-Platform](ainocode2.png)
+![MVP-Platform](./assets/images/ainocode.png)
+![MVP-Platform](./assets/images/ainocode2.png)
 
 ## 🌟 Key Features
 
