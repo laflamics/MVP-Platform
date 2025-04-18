@@ -2,7 +2,8 @@
 
 A cutting-edge no-code platform that transforms natural language into fully functional applications. Built with Next.js 14, TypeScript, and OpenAI.
 
-![Demo Preview](demo-preview.png)
+![AI No-Code Platform](ainocode.png)
+![AI No-Code Platform](ainocode2.png)
 
 ## 🌟 Key Features
 
@@ -180,6 +181,6 @@ Contributions, issues, and feature requests are welcome! See [CONTRIBUTING.md](C
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Panji Depasha - [@satpamblockchain](https://twitter.com/satpamblockchain) - satpamblockchain@gmail.com
 
-Project Link: [https://github.com/yourusername/nocode-ai-platform](https://github.com/yourusername/nocode-ai-platform)
+Project Link: [https://github.com/laflamics/MVP-Platform.git](https://github.com/laflamics/MVP-Platform.git)
